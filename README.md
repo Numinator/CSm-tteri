@@ -1,1 +1,6 @@
-# CSm-tteri
+# CSmaatteri
+
+
+# ProjectEuler
+ brugernavn 	csmaateridiku
+ kode		dikudiku
